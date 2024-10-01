@@ -1,4 +1,4 @@
-# About me
+# About this Automation
 
 This repository houses a template for the generation of service module repositories.
 New service module should be added using Orchestration API.
