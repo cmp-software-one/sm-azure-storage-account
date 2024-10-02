@@ -20,11 +20,6 @@ Refer to the section below for Azure's **Naming convention best practices**
 | **storage_account_name** | **example** stProjectAppOrService123 | 3-24 chars, lowercase and numbers only |
 | **account_kind** | **storage** | Enter storage here |
 
-Between 1 and 90 characters long.
-Alphanumerics, underscores, parentheses, hyphens, periods.
-Can't end with period.
-Resource Group names must be unique within a subscription.
-
 ### Naming convention best practices
 
 https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/resource-naming
