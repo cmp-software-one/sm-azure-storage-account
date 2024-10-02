@@ -6,7 +6,7 @@ Refer to our table below for **Best Practices**
 
 Refer to the section below for Azure's **Naming convention best practices**
 
-## Directory structure
+## Fields and Best Practices
 
 | Field         | Best practice and Options      | Limitations |
 | ------------- | --------------------------------- |-|
