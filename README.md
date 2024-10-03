@@ -22,7 +22,7 @@ Refer to the section below for Azure's **Naming convention best practices**
 
 ### Naming convention best practices
 
-https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/resource-naming
+[Microsoft's Best practices](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/resource-naming)
 
 ### Azure Regions
 
