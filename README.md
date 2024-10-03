@@ -13,7 +13,7 @@ Refer to the section below for Azure's **Naming convention best practices**
 | **Request title**       | A friendly short name to remind you why you created this account         | 256 characters|
 | **Request description**        | Add more details on the need for the account          |256 characters |
 | **Azure subscription ID** | Select your target Subscription ID | NA |
-| **account_replciation_type** | **ZRS**, LRS, GRZ, GZRS  | Slect only one of those show |
+| **account_replication_type** | **ZRS**, LRS, GRZ, GZRS  | Slect only one of those show |
 | **account_tier** | **Standard**, Premium  | Choose one |
 | **resource_group_location** | Refer to the **Azure Regions table below** | Copy from the Name column|
 | **resource_group_name** | **example** rg-app or service name-subscription purpose-number | 1-90 chars, alphanumerics, underscores, parentheses, hyphens |
