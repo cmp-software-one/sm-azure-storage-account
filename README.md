@@ -24,6 +24,9 @@ Refer to the section below for Azure's **Naming convention best practices**
 
 [Microsoft's Best practices](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/resource-naming)
 
+[Azure Naming limitations](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/resource-name-rules)
+
+
 ### Azure Regions
 
 Select your Regions from the **Name** column
